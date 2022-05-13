@@ -1,4 +1,1 @@
-# BlockBit
-Applications development for the BTC blockchain
- 
-This repo is to house code for blockchain development based on BTC...!!! Welcome to the world of crypto development.
+this is a sample Decentralized Application to demonstrate an electoral process for the on Blockchains.
